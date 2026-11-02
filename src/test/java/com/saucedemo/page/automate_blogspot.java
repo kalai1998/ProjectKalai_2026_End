@@ -205,5 +205,13 @@ public class automate_blogspot {
 		}
 
 	}
+	
+	private void kalai() {
+		System.out.println("Kalai");
+	}
+	
+	private void arasan() {
+		System.out.println("Arasan");
+	}
 
 }
